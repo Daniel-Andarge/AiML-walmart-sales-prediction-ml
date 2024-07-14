@@ -14,15 +14,15 @@ This project is a machine learning competition hosted on Kaggle platform, focuse
 8. [License](#license)
 
 ## Exploratory Data Analysis EDA
-![xgboost](https://github.com/Daniel-Andarge/AiML-financial-fraud-detection-model/blob/main/assets/model-building/xg1.png)
-![xgboost](https://github.com/Daniel-Andarge/AiML-financial-fraud-detection-model/blob/main/assets/model-building/xg1.png)
+![plot1](https://github.com/Daniel-Andarge/AiML-walmart-sales-prediction-ml/blob/main/assets/eda/BOX_PLOT_CAT.png)
+![plot2](https://github.com/Daniel-Andarge/AiML-walmart-sales-prediction-ml/blob/main/assets/eda/TARGET_PLOT.png)
 
 ## Modelling / Hyperparameter Tuning
 
 ## Model Evaluation
 
 ## Kaggle Submission
-![xgboost](https://github.com/Daniel-Andarge/AiML-financial-fraud-detection-model/blob/main/assets/model-building/xg1.png)
+![Submission](https://github.com/Daniel-Andarge/AiML-walmart-sales-prediction-ml/blob/main/assets/eda/SUB1.png)
 
 ## Conclusion
 
