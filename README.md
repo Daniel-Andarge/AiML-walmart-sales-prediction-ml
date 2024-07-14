@@ -14,12 +14,15 @@ This project is a machine learning competition hosted on Kaggle platform, focuse
 8. [License](#license)
 
 ## Exploratory Data Analysis EDA
+![xgboost](https://github.com/Daniel-Andarge/AiML-financial-fraud-detection-model/blob/main/assets/model-building/xg1.png)
+![xgboost](https://github.com/Daniel-Andarge/AiML-financial-fraud-detection-model/blob/main/assets/model-building/xg1.png)
 
-## Feature Engineering
-
-## Modelling
+## Modelling / Hyperparameter Tuning
 
 ## Model Evaluation
+
+## Kaggle Submission
+![xgboost](https://github.com/Daniel-Andarge/AiML-financial-fraud-detection-model/blob/main/assets/model-building/xg1.png)
 
 ## Conclusion
 
